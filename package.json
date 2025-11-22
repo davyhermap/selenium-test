@@ -1,0 +1,20 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "chromedriver": "^142.0.3",
+    "jest": "^30.2.0",
+    "jest-html-reporters": "^3.1.7",
+    "selenium-webdriver": "^4.38.0"
+  }
+}
